@@ -28,6 +28,15 @@ This game blends culture and code. Mancala (or Oware) is a cherished part of Afr
 - `assets/` - (Optional) For audio, fonts, or images
 - `README.md` - You're reading it 🙂
 
+  ## 🔗 Original Project Credit
+
+This project is a cultural and language adaptation of the open-source Mancala game by [ https://github.com/SARAH-HADDAD/The-Mancala-Game.git
+.  
+Original repository: https://github.com/adinanturner/Mancala
+
+Used with permission from the author for academic purposes as part of a final-year capstone project.
+
+
 ## ▶️ How to Play
 
 1. **Install Python** (3.6+ recommended)
