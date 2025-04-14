@@ -1,4 +1,4 @@
-# Oware: The Storytelling Game (Hausa Mancala)
+# 🎓 Final Capstone Project: Oware – The Storytelling Game (Hausa Mancala)
 
 This is a culturally enriched version of the traditional African board game **Mancala (Oware)**, adapted to support the **Hausa language** and incorporate **African folktales**. It is built in Python using **Pygame** and was developed as a final-year capstone project at Norwich University.
 
