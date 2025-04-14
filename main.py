@@ -55,7 +55,7 @@ def show_story_screen(screen):
         for event in pygame.event.get():
             if event.type == pygame.QUIT or event.type == pygame.KEYDOWN:
                 waiting = False
-# ----------- Your original game loop -----------
+# game loop
 
 draw = Drawer()
 running = True
