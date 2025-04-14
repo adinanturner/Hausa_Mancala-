@@ -1,22 +1,36 @@
-# Senior Capstone 
+# Oware: The Storytelling Game (Hausa Mancala)
 
-This is a simple implementation of the ancient African board game called Mancala in Python, using Pygame for the GUI.
-The game can be played by one human player against the computer.
+This is a culturally enriched version of the traditional African board game **Mancala (Oware)**, adapted to support the **Hausa language** and incorporate **African folktales**. It is built in Python using **Pygame** and was developed as a final-year capstone project at Norwich University.
 
-## Files
-### MancalaBoard.py: 
-Contains the MancalaBoard class which is responsible for representing the game board and performing moves.
-### Game.py:
-Contains the Game class which is responsible for managing the game flow and determining the winner.
-### Play.py:
-Contains the Play class which is responsible for managing the interactions with the human player.
-### GUI.py:
-Contains the Drawer class which is responsible for rendering the game board to the screen.
-### main.py: 
-Is the entry point of the program and contains the game loop.
+## 🎮 Features
 
-## How to play
-To play the game, run main.py. The human player will play first and can choose any of their non-empty pits by clicking on it. The computer player will then make its move. The game ends when one player has no more stones on their side of the board. The player with the most stones in their store wins.
+- 🪵 Classic Mancala gameplay (Human vs. Computer)
+- 🌍 Hausa language interface
+- 📖 Short Hausa folktales shown at the end of each game
+- 🎨 Modified GUI with African-inspired aesthetic
+- 🔊 Optional audio support for folktale narration
+- 🏆 End-game summary with winner display
 
-## Requirements
-This code requires Pygame to run. To install Pygame, run pip install pygame.
+## 🧠 Why This Project?
+
+This game blends culture and code. Mancala (or Oware) is a cherished part of African heritage. This project aims to:
+- Preserve Hausa storytelling traditions
+- Provide an accessible, fun, and strategic experience
+- Celebrate African languages in tech spaces
+
+## 📁 File Structure
+
+- `main.py` - Entry point of the game loop
+- `Game.py` - Manages gameplay flow and winner logic
+- `Play.py` - Handles player interactions
+- `GUI.py` - Draws the board and handles rendering
+- `MancalaBoard.py` - Core logic for the game board
+- `assets/` - (Optional) For audio, fonts, or images
+- `README.md` - You're reading it 🙂
+
+## ▶️ How to Play
+
+1. **Install Python** (3.6+ recommended)
+2. **Install Pygame**:
+   ```bash
+   pip install pygame
