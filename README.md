@@ -1,4 +1,4 @@
-# Mancala
+# Senior Capstone 
 
 This is a simple implementation of the ancient African board game called Mancala in Python, using Pygame for the GUI.
 The game can be played by one human player against the computer.
